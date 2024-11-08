@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/VidhyaA-website/static/css/main.e5a55eef.css",
+    "main.js": "/VidhyaA-website/static/js/main.a592af5b.js",
+    "static/media/garlic1.jpg": "/VidhyaA-website/static/media/garlic1.b73bde7372971931230c.jpg",
+    "static/media/grill1.jpg": "/VidhyaA-website/static/media/grill1.78ae848db648c9221105.jpg",
+    "static/media/grill.jpg": "/VidhyaA-website/static/media/grill.771b21122ed1ca358d0f.jpg",
+    "static/media/table.jpg": "/VidhyaA-website/static/media/table.13d94fcc2c3d0a4a7505.jpg",
+    "static/media/leg3.jpg": "/VidhyaA-website/static/media/leg3.5b96fb2922dd7a9c46a7.jpg",
+    "static/media/veggie.jpg": "/VidhyaA-website/static/media/veggie.070ebbcf91765df26ca9.jpg",
+    "index.html": "/VidhyaA-website/index.html",
+    "main.e5a55eef.css.map": "/VidhyaA-website/static/css/main.e5a55eef.css.map",
+    "main.a592af5b.js.map": "/VidhyaA-website/static/js/main.a592af5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5a55eef.css",
+    "static/js/main.a592af5b.js"
+  ]
+}

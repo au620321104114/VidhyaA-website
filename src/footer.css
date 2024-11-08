@@ -202,7 +202,7 @@ transform: translateX(0);
 /*------------------banner section----------------------*/
 .heater{
     min-height: 100vh;
-   
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('image/background.jpg') center/cover no-repeat fixed;
     position: relative;
 }
 

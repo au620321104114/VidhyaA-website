@@ -7,7 +7,9 @@ import leg3 from './image/leg3.jpg';
 import veggie from './image/veggie.jpg';
 import grill from './image/grill.jpg';
 import garlic1 from './image/garlic1.jpg';
+
 import './footer.css'; // Import the CSS file
+import background from './image/background.jpg';
 
 function Header() {
   return (
